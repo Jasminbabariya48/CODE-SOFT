@@ -1,0 +1,30 @@
+Overall IDEA of Prject:
+
+In the IMDb movie rating project, the dataset contains various features such as movie name, director, duration, year, actors, rating votes, etc. However, the data quality is compromised due to the presence of many missing values. To address this issue, feature engineering techniques are applied using libraries like Pandas and Scikit-learn, employing strategies such as imputation by mean or most frequent values.
+
+After performing feature engineering, the statistics of the dataset are examined to understand its characteristics better. Categorical variables are encoded using one-hot encoding to prepare them for regression modeling.
+
+Since this problem is a regression type, several machine learning algorithms are applied, including Linear Regression, Ridge Regression, KNN Stacking Regression, Decision Tree, and Random Forest. These algorithms are trained on the dataset to predict the movie rating value.
+
+The performance of each algorithm is evaluated using various metrics such as mean squared error, R-squared, and mean absolute error. Additionally, visualizations such as scatter plots are utilized to depict the relationship between actual and predicted ratings, as well as to analyze the residuals.
+
+Furthermore, bar plots are created to compare actual ratings with predicted ratings, providing a clear visual representation of the model's performance. This comprehensive analysis helps in understanding the effectiveness of different machine learning models in predicting IMDb movie ratings accurately.
+
+
+Stpes:
+	1)Feature Enginering
+	1)Find Statistics
+	2)Check data normalization
+	3)Apply OneHot encoding
+	4)train-test Split
+	5)Use Classifier Algorithum
+	6)mean squared error, R-squared, and mean absolute error,root mean squared error
+
+
+Result:all algorithum root mean squared error valuse:
+	Linear Regression            --> 1.3260506714535472
+	Ridge Regression             --> 1.3260506702442023
+	Decision Tree Regressior     --> 1.2090205985307334
+	Random Forest Regressior     --> 1.2090205985307334
+	KNN regrssior                --> 1.2638932352053096
+	Stacking Regressior          --> 1.1979084234031614
