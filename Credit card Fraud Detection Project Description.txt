@@ -1,0 +1,20 @@
+	In this credit card fraud detection machine learning project, I utilized transformation data provided in Mathematical transformation. Afterward, I visualized the data distribution using a QQ plot. 
+	The problem at hand involves classification, determining whether fraud has occurred or not. Employing Decision Tree, Logistic regressior and Random Forest algorithms, I built machine learning models to tackle this challenge. 
+	Evaluating the models, I calculated accuracy, F1 score, and generated confusion matrices and confusion reports. This comprehensive approach aims to enhance fraud detection accuracy and bolster security in credit card transactions
+
+Step:
+	1)Find Statistics
+	2)Check data normalization
+	3)train-test Split
+	4)Use Classifier Algorithum
+	5)Accuracy,F1Score,Confusion Matrix
+
+Result:- all Algorithum F1 score are below are there:
+	Decision Tree         --> 0.8825490340348847
+	Logistic Regressior   --> 0.7092198581560283
+	Random Forest         --> 0.7123287671232876
+
+
+
+
+
