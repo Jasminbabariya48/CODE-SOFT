@@ -1,6 +1,9 @@
-	In this credit card fraud detection machine learning project, I utilized transformation data provided in Mathematical transformation. Afterward, I visualized the data distribution using a QQ plot. 
-	The problem at hand involves classification, determining whether fraud has occurred or not. Employing Decision Tree, Logistic regressior and Random Forest algorithms, I built machine learning models to tackle this challenge. 
-	Evaluating the models, I calculated accuracy, F1 score, and generated confusion matrices and confusion reports. This comprehensive approach aims to enhance fraud detection accuracy and bolster security in credit card transactions
+Overall Idea of Project:
+In this credit card fraud detection machine learning project, I utilized transformation data provided in Mathematical transformation. Afterward, I visualized the data distribution using a QQ plot. 
+
+The problem at hand involves classification, determining whether fraud has occurred or not. Employing Decision Tree, Logistic regressior and Random Forest algorithms, I built machine learning models to tackle this challenge. 
+	
+Evaluating the models, I calculated accuracy, F1 score, and generated confusion matrices and confusion reports. This comprehensive approach aims to enhance fraud detection accuracy and bolster security in credit card transactions
 
 Step:
 	1)Find Statistics
