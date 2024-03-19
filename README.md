@@ -1,4 +1,4 @@
-# CODE-SOFT
+# CODSOFT
 Title: Data Science Internship Program
 
 Description:
